@@ -1,5 +1,3 @@
-# Fraud-Detection-Dashboard
-
 # Financial Fraud Detection Dashboard
 
 ## 📌 Project Overview
